@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">560830719607</string>
+    <string name="google_api_key" translatable="false">AIzaSyCa5rSE5egsPH9v9tZ4M5zp52S-gznHkSQ</string>
+    <string name="google_app_id" translatable="false">1:560830719607:android:deb620ee66d4f3691f8872</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCa5rSE5egsPH9v9tZ4M5zp52S-gznHkSQ</string>
+    <string name="google_storage_bucket" translatable="false">personal-finance-tracker-1f416.firebasestorage.app</string>
+    <string name="project_id" translatable="false">personal-finance-tracker-1f416</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A1A2E</color>
+    <color name="colorPrimaryVariant">#16213E</color>
+    <color name="colorSecondary">#0F3460</color>
+    <color name="colorAccent">#E94560</color>
+    <color name="colorAccentLight">#FFE8EC</color>
+
+    <color name="colorIncome">#00C896</color>
+    <color name="colorIncomeLight">#E0FFF8</color>
+    <color name="colorExpense">#E94560</color>
+    <color name="colorExpenseLight">#FFE8EC</color>
+
+    <color name="colorBackground">#F4F6FA</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorCardBg">#FFFFFF</color>
+
+    <color name="colorTextPrimary">#1A1A2E</color>
+    <color name="colorTextSecondary">#6B7280</color>
+    <color name="colorTextHint">#9CA3AF</color>
+
+    <color name="colorDivider">#F0F0F5</color>
+    <color name="colorShadow">#1A000000</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Category Colors -->
+    <color name="cat1">#E53935</color>
+    <color name="cat2">#D81B60</color>
+    <color name="cat3">#8E24AA</color>
+    <color name="cat4">#1E88E5</color>
+    <color name="cat5">#00ACC1</color>
+    <color name="cat6">#43A047</color>
+    <color name="cat7">#FB8C00</color>
+</resources>

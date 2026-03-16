@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_add_transaction.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_wallet.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_wallet.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.personalfinance.app-merged_res-57:/layout_item_budget.xml.flat",
+        "source": "com.example.personalfinance.app-main-59:/layout/item_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_splash.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bottom_nav_selector.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bottom_nav_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_budget.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_arrow_income.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_arrow_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_item_budget.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\item_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_type_badge.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_type_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_stat_card.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_stat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_dot_divider.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\dot_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_image_placeholder.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_image_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_budget_progress_drawable.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\budget_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_receipt.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_receipt_placeholder.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_receipt_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_dialog_add_budget.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\dialog_add_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_transaction_detail.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_transaction_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_fragment_transactions.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\fragment_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_category_icon.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_category_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_arrow_expense.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_arrow_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_progress_track.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_progress_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_transactions.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_transactions.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_selector_type_button.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\selector_type_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\layout_fragment_budget.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\layout\\fragment_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-merged_res-57:\\drawable_selector_type_text.xml.flat",
+        "source": "C:\\Users\\bhuva yashvi timir\\.gradle\\daemon\\8.5\\com.example.personalfinance.app-main-59:\\drawable\\selector_type_text.xml"
+    }
+]

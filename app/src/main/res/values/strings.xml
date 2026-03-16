@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinanceTracker</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="transactions">Transactions</string>
+    <string name="budget">Budget</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount (₹)</string>
+    <string name="note">Note (optional)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="balance">Balance</string>
+    <string name="this_month">This Month</string>
+    <string name="no_transactions">No transactions yet.\nTap + to add one!</string>
+    <string name="no_budgets">No budgets set.\nTap + to add one!</string>
+    <string name="no_chart_data">No expense data this month</string>
+    <string name="receipt">Receipt</string>
+    <string name="add_receipt">+ Add Receipt Photo</string>
+    <string name="logout">Logout</string>
+    <string name="set_budget">Set Budget</string>
+    <string name="budget_limit">Budget Limit (₹)</string>
+    <string name="category">Category</string>
+    <string name="date">Date</string>
+    <string name="transaction_details">Transaction Details</string>
+    <string name="confirm_delete">Are you sure you want to delete this transaction?</string>
+    <string name="spending_overview">Spending Overview</string>
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="spent">Spent</string>
+    <string name="remaining">Remaining</string>
+    <string name="of">of</string>
+</resources>
